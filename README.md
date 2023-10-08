@@ -1,6 +1,6 @@
 一款AI资源导航，汇聚了数百款全球AI工具，助你提升学习、工作与生活效率，让AI引领你的未来！这是一个专注于ai 导航类资源网，网站收集了很多关于人工智能（AI）的网址/app/公众号/AI相关书籍。
 
-目前的内容包括但不限于AI ChatGPT对话，AI提示词，AI绘画, AI图像，AI写作， AI视频，AI编程，AI办公，AI软件工具，AI开放平台、AI资讯、ai有趣网站、AI开源项目、AI技术等。
+目前的内容包括但不限于AI ChatGPT对话，AI提示词，Midjourney绘画, AI图像，AI写作，AI视频，AI编程，AI办公，AI软件工具，AI开放平台、AI资讯、ai有趣网站、AI开源项目、AI技术、AI商业化等。
 
 ## 网站域名
 域名：ai.soujiz.com；全称：ai资源导航；解释即为：AI（人工智能）+ soujiz.com(搜集站缩写)组合。
