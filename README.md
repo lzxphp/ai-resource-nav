@@ -3,7 +3,7 @@
 目前的内容包括但不限于AI ChatGPT对话，AI提示词，Midjourney绘画, AI图像，AI写作，AI视频，AI编程，AI办公，AI软件工具，AI开放平台、AI资讯、ai有趣网站、AI开源项目、AI技术、AI商业化等。
 
 ## 网站域名
-域名：[AI资源导航](ai.soujiz.com)；全称：ai资源导航；解释即为：AI（人工智能）+ soujiz.com(搜集站缩写)组合。
+域名：[AI资源导航](wwww.soujiz.com)；全称：ai资源导航；解释即为：AI（人工智能）+ soujiz.com(搜集站缩写)组合。
 
 ## 百度排名
 网站正式上线三天，已被百度收录，在百度搜索**AI资源导航**关键词，可以看到排名第一就是本导航了。
